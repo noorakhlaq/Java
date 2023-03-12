@@ -11,5 +11,6 @@ public class CountEvenNumber3 {
 			}
 		}
 		System.out.println(count);
+		System.out.println("hi");
 	}
 }
